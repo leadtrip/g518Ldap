@@ -1,6 +1,6 @@
 Simple grails project that uses freely available LDAP instance (https://www.forumsys.com/2022/05/10/online-ldap-test-server/) for access control
 
-Try loging in with password=password and user from one of...
+Try logging in with password=password and user from one of...
 
 * euclid
 * einstein
